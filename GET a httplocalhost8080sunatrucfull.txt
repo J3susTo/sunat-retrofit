@@ -1,0 +1,3 @@
+GET a: http://localhost:8080/sunat/ruc/full?numero=20601030013
+
+sk_9898.mH8qWxI2rZEQqWWUIThol7exccGa3vch
